@@ -2,7 +2,7 @@
   "author": "Tom Zhou",
   "name": "httpp-binary",
   "description": "Pre-build node-httpp binary",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./httpp",
   "repository": {
     "type": "git",
