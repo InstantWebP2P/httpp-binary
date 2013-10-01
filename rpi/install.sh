@@ -5,6 +5,6 @@ wget --no-check-certificate https://raw.github.com/InstantWebP2P/httpp-binary/ma
 tar xvf node-v0.8.x-httpp-pi.tar -C ~/
 
 ### setup path env
-echo 'PATH="$PATH":~/node-v0.8.x-pi/bin/' >> ~/.bashrc
+echo 'export PATH=~/node-v0.8.x-httpp-pi/bin/:$PATH' >> ~/.bashrc
 source ~/.bashrc
 
