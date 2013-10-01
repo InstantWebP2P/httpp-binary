@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 ### download rpi binary package
 wget --no-check-certificate https://raw.github.com/InstantWebP2P/httpp-binary/master/rpi/node-v0.8.x-httpp-pi.tar
