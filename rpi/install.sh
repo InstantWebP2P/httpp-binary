@@ -6,4 +6,5 @@ tar xvf node-v0.8.x-httpp-pi.tar -C ~/
 
 ### setup path env
 echo 'PATH="$PATH":~/node-v0.8.x-pi/bin/' >> ~/.bashrc
+source ~/.bashrc
 
